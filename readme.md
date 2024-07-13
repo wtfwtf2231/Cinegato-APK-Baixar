@@ -20,7 +20,7 @@
     Como Baixar e Instalar
     Para baixar e instalar o CineGato APK, siga os passos abaixo:
     
-        Permitir Instalacao de Fontes Desconhecidas</strong>: Antes de instalar o APK, e necessario habilitar a instalacao de aplicativos de fontes desconhecidas nas configuracoes do seu dispositivo Android.
+        Permitir Instalacao de Fontes Desconhecidas: Antes de instalar o APK, e necessario habilitar a instalacao de aplicativos de fontes desconhecidas nas configuracoes do seu dispositivo Android.
         Baixar o APK: Visite um site confiavel que ofereca o arquivo do CineGato APK para download.
         Instalar o APK<: Apos o download, abra o arquivo APK e siga as instrucoes na tela para concluir a instalacao.
         Abrir o Aplicativo: Uma vez instalado, voce pode abrir o CineGato APK e comecar a explorar sua vasta colecao de filmes e series.
